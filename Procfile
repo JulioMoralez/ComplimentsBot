@@ -1,1 +1,1 @@
-worker: sh target/bin/ComplimentsBot-1.0-SNAPSHOT
+web: sh target/bin/ComplimentsBot
